@@ -2,8 +2,11 @@
 
 ## Задание:
 1. Написать тесты на модули `first_module.py` и `second_module.py`
+1.1 Add tests for first_module, tests for second_module in procces.
 2. Подключиться к БД и сказать, какие в ней есть таблицы (кредиты пришлю).
+2.1 Done, database hasn't any tables. 
 3. Создать новую таблицу "ioann" с одной колонкой `TEST` и написать туда строку `DONE`.
+3.1 Done
 
 ## Что считается за выполнение:
 1. Отправленные merge request с тестами и обновлённым README;
